@@ -42,3 +42,6 @@ The module follows a 5-phase interaction cycle to prevent AI dependency:
 
 ## 📚 Citation
 Hendrika, T. P. & Azzah, L. (2025). *The Effect of A Chatgpt-Assisted Problem-Based Learning Model on Digital Literacy Skills and Learning Outcomes of Eleventh-Grade Senior High School Students*. Journal in Teaching and Education Area, 3(1).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
