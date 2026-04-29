@@ -4,7 +4,7 @@ This library contains the specific prompts used in the **"Human-in-the-Loop"** a
 
 ---
 
-## 🟢 Phase 1: Problem Orientation (The Hook)
+## Phase 1: Problem Orientation (The Hook)
 **Goal:** To simplify complex biological contexts and spark curiosity.
 
 **Prompt:**
@@ -12,7 +12,7 @@ This library contains the specific prompts used in the **"Human-in-the-Loop"** a
 
 ---
 
-## 🔵 Phase 2: Independent Investigation (Research Assistant)
+## Phase 2: Independent Investigation (Research Assistant)
 **Goal:** To understand molecular mechanisms and deep biological processes.
 
 **Prompt:**
@@ -23,7 +23,7 @@ This library contains the specific prompts used in the **"Human-in-the-Loop"** a
 
 ---
 
-## 🟡 Phase 3: Solution Development (Brainstorming Partner)
+## Phase 3: Solution Development (Brainstorming Partner)
 **Goal:** To apply learned theories into creative public health interventions.
 
 **Prompt:**
@@ -31,7 +31,7 @@ This library contains the specific prompts used in the **"Human-in-the-Loop"** a
 
 ---
 
-## 🔴 Phase 4: Evaluation & Reflection (Critical Review)
+## Phase 4: Evaluation & Reflection (Critical Review)
 **Goal:** To identify AI limitations and build information evaluation skills.
 
 **Prompt:**
@@ -39,6 +39,6 @@ This library contains the specific prompts used in the **"Human-in-the-Loop"** a
 
 ---
 
-## 🛠 Usage Guidelines
+## Usage Guidelines
 1. **Prompt Transparency:** Students must record these prompts in their "Prompt Log".
 2. **The 2-Source Rule:** No AI-generated claim is accepted unless cross-referenced with at least two external academic sources.
